@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "660edf713481454fbd751dfa",
+  "owner": "rybrewsmsrc",
+  "repo": "page-50d176084cfa39883690818d",
+  "title": "PRPR橙(prpr)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "50d176084cfa39883690818d",
+      "a": "PRPR橙(prpr)",
+      "b": "",
+      "entity": "PRPR橙(prpr)",
+      "brand": "PRPR橙(prpr)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "330e64ea10006f8c5274d27d8f124698048331e07fbe6505b92d91b536b5fe20",
+      "content": {
+        "keyword1": "PRPR橙(prpr)",
+        "keyword2": "",
+        "primary_entity": "PRPR橙(prpr)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "PRPR橙(prpr)提供稳定高速的机场订阅与VPN网络加速服务，支持多端客户端下载，解锁流媒体与游戏加速，官方网站获取最新节点与配置教程。",
+          "AI_DESCRIPTION": "PRPR橙(prpr)提供稳定高速的机场订阅与VPN网络加速服务，支持多端客户端下载，解锁流媒体与游戏加速，官方网站获取最新节点与配置教程。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0;}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif;background:#f5f0e6;color:#1a2e1a;line-height:1.7;font-size:16px;overflow-x:hidden;}main{max-width:960px;margin:0 auto;padding:0 16px 40px;}h1{font-size:2.4rem;color:#1b4d3e;text-align:center;padding:4.5rem 1rem 2rem;font-weight:700;letter-spacing:0.02em;}h2{font-size:1.45rem;color:#1b4d3e;margin:2.5rem 0 1rem;padding-bottom:0.4rem;border-bottom:2px solid #2d5a27;}h3{font-size:1.15rem;color:#2d5a27;margin:1.2rem 0 0.5rem;}p,li{margin-bottom:0.8rem;}ul{padding-left:1.4rem;}.hero-desc{text-align:center;font-size:1.1rem;max-width:640px;margin:0 auto 2rem;color:#3d4a3d;}.plans{display:flex;flex-wrap:wrap;gap:16px;justify-content:center;margin:1.5rem 0;}.plan{background:#fff;border:1px solid #c5d4c0;border-radius:10px;padding:20px;flex:1 1 260px;max-width:300px;}.plan.featured{border:3px solid #2d5a27;background:#f0f7ed;}.plan h3{margin-top:0;text-align:center;}.price{font-size:1.6rem;color:#1b4d3e;text-align:center;font-weight:700;margin:0.5rem 0;}.annual{font-size:0.9rem;text-align:center;color:#4a5c4a;margin-bottom:1rem;}.plan ul{list-style:none;padding:0;}.plan li{padding:0.3rem 0;border-bottom:1px dashed #dce8d8;}.steps{background:#fff;padding:1.5rem;border-radius:8px;border-left:4px solid #2d5a27;margin:1rem 0;}.faq details{background:#fff;margin:0.6rem 0;padding:0.8rem 1rem;border-radius:6px;border:1px solid #d4e0d0;}.faq summary{font-weight:600;color:#1b4d3e;cursor:pointer;}.faq p{margin:0.6rem 0 0;color:#333;}.ad-box{background:#e8f2e4;border:1px dashed #2d5a27;padding:1rem;text-align:center;margin:2rem 0;border-radius:8px;}.friends a{color:#1b4d3e;margin:0 8px;text-decoration:none;border-bottom:1px solid #2d5a27;}footer{text-align:center;padding:2rem 1rem;font-size:0.85rem;color:#5a6b5a;border-top:1px solid #d0dccb;margin-top:2rem;}footer a{color:#2d5a27;margin:0 6px;}@media(max-width:600px){h1{font-size:1.8rem;padding:3rem 0.5rem 1.5rem;}.plan{max-width:100%;}}</style><main><h1>PRPR橙(prpr)</h1><p class=\"hero-desc\">高速稳定的机场订阅服务与VPN网络加速官网，支持全平台客户端一键导入，专注流媒体解锁与低延迟游戏加速。</p><h2 id=\"intro\">品牌简介</h2><p>PRPR橙（prpr）是面向个人与团队用户的网络加速品牌，提供机场订阅与多协议客户端支持。我们持续优化全球节点质量，结合普通线路与 IPLC 专线，满足跨境办公、学术访问、影音娱乐及竞技游戏等多样化需求。官方网站统一发布套餐、配置说明与客户端使用指引，帮助用户快速完成订阅与连接。</p><p>无论您是首次接触梯子加速，还是需要为小团队部署稳定线路，PRPR橙均提供清晰的操作路径与分级套餐，让网络访问更加从容。</p><h2 id=\"plans\">套餐方案</h2><p>所有套餐均含订阅链接自动更新节点，流量按月重置，支持常见加密协议。年付可享整年优惠价。</p><div class=\"plans\"><div class=\"plan\"><h3>基础版</h3><div class=\"price\">¥15/月</div><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></div><div class=\"plan featured\"><h3>旗舰版</h3><div class=\"price\">¥35/月</div><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></div><div class=\"plan\"><h3>团队版</h3><div class=\"price\">¥85/月</div><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></div></div><h2 id=\"scenes\">使用场景</h2><h3>流媒体与内容访问</h3><p>通过原生解锁节点观看海外影视、音乐与直播平台，减少地区限制带来的缓冲与无法播放问题。</p><h3>游戏加速</h3><p>旗舰版及以上提供 IPLC 专线优化，适合需要更低延迟与更稳丢包控制的对战与开放世界游戏。</p><h3>远程办公与学习</h3><p>稳定访问海外协作工具、代码仓库、学术数据库与在线课程，保障会议与下载体验。</p><h3>多设备日常加速</h3><p>手机、电脑、平板同时在线，家庭或小团队共享订阅，按套餐设备上限合理分配。</p><h2 id=\"guide\">客户端下载与配置流程</h2><p>配置流程是使用 PRPR橙 机场的核心步骤，请按顺序完成，通常只需几分钟即可开始网络加速。</p><div class=\"steps\"><h3>第一步：选择套餐获取订阅</h3><p>在官方网站选定适合的流量与设备数量套餐并完成开通，系统将生成专属订阅链接。请妥善保存该链接，后续客户端均通过它拉取最新节点。</p><h3>第二步：下载对应客户端</h3><p>Windows 用户可选用 Clash Verge 或 v2rayN；macOS 推荐 ClashX Meta 或 Surge；iOS 使用 Shadowrocket、Stash 或 Quantumult X；Android 使用 Clash Meta for Android 或 NekoBox。请从各软件官方发布渠道获取安装包，本站不托管第三方修改版以免安全风险。</p><h3>第三步：导入订阅并更新</h3><p>打开客户端，找到订阅或配置管理，粘贴 PRPR橙 提供的订阅地址，点击更新。成功后将出现节点列表，包含各地区普通线路与专线。</p><h3>第四步：选择节点并开启代理</h3><p>建议先进行延迟测试，挑选当前延迟较低、符合您目标地区的节点。开启系统代理或启用 TUN / 增强模式，使浏览器与应用流量走加速通道。首次使用可先访问常见网站确认连通。</p><h3>第五步：日常维护</h3><p>节点会定期更新，客户端可设置自动更新订阅。若遇个别线路波动，切换至其他节点或专线即可。流量与在线设备请在套餐范围内使用。</p></div><h2 id=\"nodes\">节点与线路说明</h2><p>PRPR橙节点覆盖亚洲、北美与欧洲主要城市，普通线路适合日常浏览与视频，IPLC 专线针对游戏与实时通讯做了路由优化。我们持续监控线路质量并进行调整，不承诺某一时刻的绝对数值，但会通过工单优先处理旗舰与团队用户的反馈。用户可根据自己的位置与用途灵活切换，无需手动填写服务器参数。</p><div class=\"ad-box\" id=\"ads\"><p><strong>官方推荐</strong>：需要游戏加速与全解锁流媒体的用户，优先考虑旗舰版年付方案，性价比更高且含优先支持。</p></div><h2 id=\"faq\">常见问题</h2><div class=\"faq\"><details><summary>PRPR橙机场订阅是什么？如何使用？</summary><p>机场订阅是一份自动更新的节点清单链接。您只需在支持的客户端中添加该链接并更新，即可获得全部可用服务器，无需逐条添加。PRPR橙官网开通套餐后即可查看专属订阅地址。</p></details><details><summary>各系统客户端应该从哪里下载？</summary><p>请使用各客户端开发者或官方商店提供的版本。本页配置流程中列出了常见推荐软件名称，下载后导入 PRPR橙 订阅即可。避免来路不明的破解包，以免账号与设备安全受到影响。</p></details><details><summary>如何判断该选择哪条节点？</summary><p>在客户端内运行延迟或速度测试，结合您访问的目标网站或游戏区服所在地区进行选择。同一地区可能有多条线路，遇到高峰可轮换尝试。旗舰版的 IPLC 节点通常更适合对延迟敏感的场景。</p></details><details><summary>流量用尽或设备超限会怎样？</summary><p>当月流量用尽后加速通道将暂停，次月重置或升级套餐后恢复。同时在线设备超过套餐上限可能导致部分设备无法连接或被踢下线，请按实际需求选择基础、旗舰或团队版本。</p></details><details><summary>是否支持 Netflix、Disney+ 等流媒体？</summary><p>基础版提供基础解锁，旗舰版与团队版强调全节点原生流媒体解锁，实际可用性会随平台策略变化。若某节点无法播放，切换至标注解锁的线路通常可以解决。</p></details><details><summary>团队版和企业定制有何区别？</summary><p>团队版面向多成员共用，提供更高流量、更多设备与 VIP 带宽节点，并含专属客户经理。企业如需定制分流规则或独立入口，可在开通后通过工单沟通需求。</p></details><details><summary>连接失败时首先检查什么？</summary><p>确认订阅已更新、本地时间准确、客户端权限（尤其是 VPN 配置与网络扩展）已授予，并尝试更换节点或重启客户端。仍无法解决时，旗舰与团队用户可走优先工单通道。</p></details></div><h2 id=\"links\">友情链接</h2><p class=\"friends\"><a href=\"#\">Clash 使用文档</a><a href=\"#\">V2Ray 入门</a><a href=\"#\">代理工具对照</a><a href=\"#\">网络加速常识</a></p><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>PRPR橙(prpr) 官方网站 · 网络加速与机场订阅服务</p><p>网站地图：<a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#faq\">常见问题</a></p><p>© PRPR橙 保留所有权利。本站仅提供加速服务介绍与客户端配置说明。</p></footer>",
+          "hash": "1ff1c50eb6aa53fa18c7175170db2f4e6fa246b9c444abff34d560f7ef2ba676",
+          "seo": {
+            "title": "PRPR橙(prpr) 官网 | 网络加速器、VPN梯子与客户端官方下载",
+            "keywords": "PRPR橙,prpr,PRPR橙机场,PRPR橙VPN,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅,IPLC专线",
+            "description": "PRPR橙(prpr)提供稳定高速的机场订阅与VPN网络加速服务，支持多端客户端下载，解锁流媒体与游戏加速，官方网站获取最新节点与配置教程。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "0859zhangyi.cn",
+    "host": "p-17501e6cc3.0859zhangyi.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "0859zhangyi.cn",
+      "url": "https://0859zhangyi.cn/",
+      "label": "ssLinks",
+      "apex": "0859zhangyi.cn",
+      "kind": null,
+      "identity": "tajavaq/page-8aae0543e2e29e5e9dafb094"
+    },
+    {
+      "host": "sglqpkt.cn",
+      "url": "https://sglqpkt.cn/",
+      "label": "PRPR橙(prpr)",
+      "apex": "sglqpkt.cn",
+      "kind": null,
+      "identity": "qpbs6vkgf/page-68308e01de7be258f0629fc3"
+    },
+    {
+      "host": "spbyjzu.cn",
+      "url": "https://spbyjzu.cn/",
+      "label": "PRPR橙(prpr)",
+      "apex": "spbyjzu.cn",
+      "kind": null,
+      "identity": "ureab8q9j/page-e453cf1f6e0cf697db460da9"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "098f0cf0451ca38922181a996586d584de16cdd725785ea80dd5e026bb501e74",
+    "sitemap.xml": "f31208a44362dd3de62b46eca37f0987f10ec00e1ac5d15afdebe7edb1c8122a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7c2d43fa05d99491076a82d1d680d5173f8651ce674f73d87af96fbcee180a9c",
+    "robots.txt": "37aa3c6af12e7369c65341709b3715a8515e9e9d9c0d026671b4a40e308bacc1",
+    "b30938c9e4f556d929fa3a1627d7e41f.txt": "f561c3ba1adb143df21956ec5b11b8bfb5405255522993d9d9880ecbf1aa77c8"
+  },
+  "revision": "953590b6717679ca7ec183f740bef17f194f4d4576073a664118811d70b7695c"
+}
